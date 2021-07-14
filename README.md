@@ -1,2 +1,2 @@
-# 387Lab1
-Math 387 Lab 1
+# [McGill University] MATH387 Honours Numerical Analysis
+First Lab
