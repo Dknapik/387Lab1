@@ -1,2 +1,3 @@
-# [McGill University] MATH387 Honours Numerical Analysis
+**[McGill University] MATH387 Honours Numerical Analysis**
+
 First Lab
